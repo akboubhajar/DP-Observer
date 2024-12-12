@@ -1,3 +1,4 @@
 # The Observer Design Pattern
 
-![DP-Observer.PNG](src%main%java%images%DP-Observer.PNG)
+![DP-Observer.PNG](src%2Fmain%2Fimages%2FDP-Observer.PNG)
+
